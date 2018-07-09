@@ -1,6 +1,7 @@
 # Summary
 * [Waltz Document](README.md)
-* [歌声合成ソフト Waltz の使い方](QUICK_REFERENCE.md)
+* [クイックリファレンス](QUICK_REFERENCE.md)
+* [Waltz について](ABOUT_WALTZ.md)
 * [Waltz Editorとは](/waltz-editor/README.md)
   * [メイン画面](/waltz-editor/SCREEN_DESCRIPTION.md)
   * [スコア編集ビュー](/waltz-editor/SCORE_EDIT_VIEW.md)
